@@ -21,5 +21,8 @@
   },
   "dependencies": {
     "jsep": "~0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
   }
 }
