@@ -1,0 +1,25 @@
+{
+  "name": "json-where",
+  "version": "0.0.0",
+  "description": "使用类似SQL Where表达式来查询json对象",
+  "main": "json-where.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/onlytiancai/json-where.git"
+  },
+  "keywords": [
+    "json",
+    "where"
+  ],
+  "author": "onlytiancai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onlytiancai/json-where/issues"
+  },
+  "dependencies": {
+    "jsep": "~0.3.0"
+  }
+}
